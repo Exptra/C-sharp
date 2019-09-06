@@ -21,7 +21,7 @@ public class Exercise9
         	{
             	vokal++; // jika string[i] == 'a.i.u.e.o'
          	}
-			else if((str[i]>='a' && str[i]<='z') || (str[i]>='A' && str[i]<='Z')) // ngecek.menghitung string A-Z jika string[i] tidak ada vokal lalu dihitung 
+		else if((str[i]>='a' && str[i]<='z') || (str[i]>='A' && str[i]<='Z')) // ngecek.menghitung string A-Z jika string[i] tidak ada vokal lalu dihitung 
         	{
             	consonant++;  // jika string[i] == 'selain a.i.u.e.o'
         	}
