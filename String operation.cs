@@ -9,7 +9,7 @@ public class Exercise9
    	Console.Write("Input : ");
     str = Console.ReadLine();		
 
-    vol1 = 0; // [i]
+    	vol1 = 0; // [i]
 	vol2 = 0; // [i]
 	vol3 = 0; // [i]
 	vol4 = 0; // [i]
